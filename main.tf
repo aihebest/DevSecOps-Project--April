@@ -3,10 +3,9 @@ provider "aws" {
 }
 resource "aws_s3_bucket" "terraform-best" {
     bucket = "terraform-best"
-    acl = "private"
-
+    
     tags = {
-      Name       = My s3 Bucket
+      Name       = "terraform-best"
       Enviroment = "Dev"
     }
 }
