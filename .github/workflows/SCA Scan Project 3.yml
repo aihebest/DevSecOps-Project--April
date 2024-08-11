@@ -34,7 +34,7 @@ on:
         with:
           scan-type: 'image'
           scanners: 'vuln'
-          image-ref: charliebanny/dockerhub:myfirstimagepush
+          image-ref: aihebest/dockerhub:myfirstimagepush
           scan-ref: '.'
           hide-progress: false
           format: 'table'
