@@ -22,7 +22,7 @@ Tools:
 - Terraform Compliance: Assesses Terraform scripts security policies defined using BDD-style language to ensure compliance.
 - Trivyw: Provides automated IaC scanning to identify security misconfiguration across AWS, Azure and GCP cloud enviroments.
 
-2. ## Static Application Security Testing (SAST)
+2. Static Application Security Testing (SAST)
 
 SAST involves analyzing the application's source code or binary code without executing it. This is done to identify security vulnerabilities. coding errors and other issues in the codebase.
 
@@ -30,5 +30,5 @@ Tools:
 
 - CodeQI: Provides static code analysis to identify bugs, vulnerabilities and code smells in various programming languages.
 
-3. ## Software Composition Analysis (SCA)
+3. Software Composition Analysis (SCA)
 
