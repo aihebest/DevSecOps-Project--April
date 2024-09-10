@@ -32,3 +32,7 @@ Tools:
 
 3. Software Composition Analysis (SCA)
 
+SCA focuses on identifying and managing open-source components and third-party libaries used in the application.
+It helps in detecting known vulnerabilities in dependencies.
+
+**Tools:**
