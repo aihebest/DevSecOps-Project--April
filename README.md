@@ -47,4 +47,13 @@ It helps in detecting known vulnerabilities in dependencies.
 
 3. **Custom Policies:** Define custom security policies based on project requirements and industry standards to ensure comprehensive security coverage.
 
-4. **A
+4. **Automated Remediation:** Configure automated remediation processes to fix identified vulnerabilities or misconfiguration whenever possible.
+
+5. **Reporting and Notifications:** Generate details report on security finding and send notification relevant stakeholders for promt remediation.
+
+## Conclusion ##
+
+By integrating SAST, SCA, and IaC scanning practices into the DevSecOps pipelines, the project seeks to strengthen the security posture of applications running in AWS, minimize vulnerabilities, and ensure compliance throughout the software development lifecycle.
+
+# DevSecOps Project Diagram 
+
