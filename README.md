@@ -30,7 +30,7 @@ Tools:
 
 - CodeQI: Provides static code analysis to identify bugs, vulnerabilities and code smells in various programming languages.
 
-3. Software Composition Analysis (SCA)
+**3. Software Composition Analysis (SCA)**
 
 SCA focuses on identifying and managing open-source components and third-party libaries used in the application.
 It helps in detecting known vulnerabilities in dependencies.
