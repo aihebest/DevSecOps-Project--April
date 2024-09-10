@@ -38,3 +38,13 @@ It helps in detecting known vulnerabilities in dependencies.
 **Tools:**
 
 - Trivy: Scans project dependencies and identifies vulnerabilities based on the National Vunerabilities Database (NVD) and other source.
+
+## Implementation
+
+1. **Integration with CI/CD Pipline:** Incorporate SAST,SCA and IaC scannig tools into the CI/CD pipline to automate security testing.
+
+2. **Pre-commit and Post-commit Hooks:** Implement pre-commit hooks to trigger security scans before code is merged into the main branch. Also, execute post-commit hooks to perform additional security check after code deployment.
+
+3. **Custom Policies:** Define custom security policies based on project requirements and industry standards to ensure comprehensive security coverage.
+
+4. **A
