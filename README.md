@@ -1,7 +1,8 @@
 # DevSecOps Project Overview
 ..
 ## Introduction
-This security document outline a DevSecOps project implementation incorporating Static Application Security Testing(SAST), Software Composition Analysis(SCA) and Infrastructure as Code(IaC) best practices on application runing within AWS infrastructure, utilising GitHub Actions with workflows.
+
+This project focuses on implementing a comprehensive DevSecOps approach by incorporating Static Application Security Testing (SAST), Software Composition Analysis (SCA), and Infrastructure as Code (IaC) best practices. It is designed for applications running within AWS infrastructure and leverages GitHub Actions workflows to automate and streamline security processes.
 
 ## Project Goal
 
