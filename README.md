@@ -13,7 +13,7 @@ Ensure compliance with security best practices and industry standards.
 
 ## Components
 
-1. Infrastructure as Code (IaC) Scaning
+**1. Infrastructure as Code (IaC) Scaning**
 
 IaC scaning ensures that the infrastructure configuration code adheres to security best practices and compliance standards. It helps in identifying misconfigurations and security loopholes in cloud infrastructure.
 
@@ -36,3 +36,5 @@ SCA focuses on identifying and managing open-source components and third-party l
 It helps in detecting known vulnerabilities in dependencies.
 
 **Tools:**
+
+- Trivy: Scans project dependencies and identifies vulnerabilities based on the National Vunerabilities Database (NVD) and other source.
