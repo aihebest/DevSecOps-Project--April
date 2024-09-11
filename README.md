@@ -58,3 +58,18 @@ By integrating SAST, SCA, and IaC scanning practices into the DevSecOps pipeline
 
 # DevSecOps Project Diagram 
 
+```mermaid
+flowchart LR;
+A(GitHub) --> B{CI/CD Pipeline GH Action}
+B --> C(SAST)
+B --> D(SCA)
+B --> E(IaC Scanning)
+C --> F(Static Code Analysis)
+D --> G(Dependency Check)
+E --> H(Infrastructure Check)
+F --> I(Remediation Action)
+G --> I
+H --> I
+I --> J(Reporting and Notifications)
+J --> K(Development Team)
+J --> L(Cloud Infrastructure Team)
